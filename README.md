@@ -159,13 +159,4 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 ## MCP
 | Name | Description | Link |
 |------|-------------|------|
-| [MCP](
-## Firebase
-| Name | Description | Link |
-|------|-------------|------|
-| [Friendlychat](https://github.com/firebase/friendlychat) | Firebase codelab for building a cross-platform chat app | |) | Firebase codelab for building a cross-platform chat app | |
-
-## Firebase
-| Name | Description | Link |
-|------|-------------|------|
-| [Friendlychat](https://github.com/firebase/friendlychat) | An open standard designed to bridge AI assistants with the world of data and tools, to plug in many different sources of context. | |
+| [MCP](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file) | An open standard designed to bridge AI assistants with the world of data and tools, to plug in many different sources of context. | https://github.com/modelcontextprotocol/servers?tab=readme-ov-file |
