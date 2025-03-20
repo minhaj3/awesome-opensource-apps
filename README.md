@@ -16,6 +16,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [Meteor](#meteor)
 - [ReactJS](#reactjs)
 - [Firebase](#firebase)
+- [MCP](#mcp)
 
 
 ## Laravel
@@ -153,3 +154,18 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [Friendlychat](https://github.com/firebase/friendlychat) | Firebase codelab for building a cross-platform chat app | |
 | [Friendlypix](https://github.com/firebase/friendlypix) | FriendlyPix is a cross-platform Firebase example app | |
 | [Firefeed](https://github.com/firebase/firefeed) | Firefeed is a web app that lets users post small messages called sparks to their feed. | |
+
+
+## MCP
+| Name | Description | Link |
+|------|-------------|------|
+| [MCP](
+## Firebase
+| Name | Description | Link |
+|------|-------------|------|
+| [Friendlychat](https://github.com/firebase/friendlychat) | Firebase codelab for building a cross-platform chat app | |) | Firebase codelab for building a cross-platform chat app | |
+
+## Firebase
+| Name | Description | Link |
+|------|-------------|------|
+| [Friendlychat](https://github.com/firebase/friendlychat) | An open standard designed to bridge AI assistants with the world of data and tools, to plug in many different sources of context. | |
